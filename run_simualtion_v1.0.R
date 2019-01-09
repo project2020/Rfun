@@ -63,7 +63,7 @@ library(ROCR)
              #head(df1)
            }
       
-   setwd("C:/Users/Hubert/Desktop/A_paper/rozklady")
+   setwd("C:/Users/Hubert/")
    write.csv(statystyki,"statystyki0107_run1.csv")
    write.csv(head(df1),"dataset0107_run1.csv")
    
