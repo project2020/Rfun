@@ -3,7 +3,7 @@
 # version 1.0 created 2018.12.30
 # tested variable 
 # bvar - binary dependent variable 
-# datascientist@yahoo.com
+# datascientist2020@yahoo.com
 
 source("/Library/createdataset.R")
 source("/Library/dks.R")
