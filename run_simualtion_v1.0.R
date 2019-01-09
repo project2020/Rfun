@@ -75,3 +75,7 @@ library(ROCR)
   #points(statystyki[,2],ksidx2,col='red')
   #lines(statystyki[,2],ksidx2,col='red')
   #legend(5,1.15,c('KSindex2','KSindex'),col=c("red","green"))
+
+
+# References
+# 1) ROCR
